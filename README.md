@@ -14,6 +14,10 @@ A simple GUI calculator built using Java Swing.
 - Swing
 - Launch4j
 
+# Creater
+
+- Sahil Nadaf
+
 ## Run
 
 ```bash
